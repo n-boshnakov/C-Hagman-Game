@@ -1,0 +1,12 @@
+C:\Users\n_bos\source\repos\HangmanProject\HangmanProject\bin\Debug\HangmanProject.exe.config
+C:\Users\n_bos\source\repos\HangmanProject\HangmanProject\bin\Debug\HangmanProject.exe
+C:\Users\n_bos\source\repos\HangmanProject\HangmanProject\bin\Debug\HangmanProject.pdb
+C:\Users\n_bos\source\repos\HangmanProject\HangmanProject\obj\Debug\HangmanProject.csprojAssemblyReference.cache
+C:\Users\n_bos\source\repos\HangmanProject\HangmanProject\obj\Debug\HangmanProject.frmTitle.resources
+C:\Users\n_bos\source\repos\HangmanProject\HangmanProject\obj\Debug\HangmanProject.Properties.Resources.resources
+C:\Users\n_bos\source\repos\HangmanProject\HangmanProject\obj\Debug\HangmanProject.csproj.GenerateResource.cache
+C:\Users\n_bos\source\repos\HangmanProject\HangmanProject\obj\Debug\HangmanProject.csproj.CoreCompileInputs.cache
+C:\Users\n_bos\source\repos\HangmanProject\HangmanProject\obj\Debug\HangmanProject.exe
+C:\Users\n_bos\source\repos\HangmanProject\HangmanProject\obj\Debug\HangmanProject.pdb
+C:\Users\n_bos\source\repos\HangmanProject\HangmanProject\obj\Debug\HangmanProject.frmGame.resources
+C:\Users\n_bos\source\repos\HangmanProject\HangmanProject\obj\Debug\HangmanProject.Resources.Text_Files.Resource.resources
